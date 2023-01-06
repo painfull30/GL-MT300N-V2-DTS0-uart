@@ -1,1 +1,1 @@
-# GL-MT300N-V2-DTS0-uart
+# GL-MT300N-V2-DTS-uart
